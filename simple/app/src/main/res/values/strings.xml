@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">simple</string>
+    <string name="roll_player">YOU</string>
+    <string name="roll_respondent">RESPONDENT</string>
+    <string name="msg_question">Please enter your question.</string>
+    <string name="msg_answer">Answer is</string>
+    <string name="label_btn_ok">OK</string>
+    <string name="label_btn_reset">RESET</string>
+    <string name="default_msg_answer">UNANSWERED</string>
+</resources>
